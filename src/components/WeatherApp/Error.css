@@ -1,0 +1,19 @@
+.error-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .error-message {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #ff0000;
+    border-radius:9px;
+    background-color: #ffe6e6;
+    font-weight: bold;
+    box-shadow: 0 0 65px #f43505;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  
